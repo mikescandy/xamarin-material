@@ -6,4 +6,14 @@
   This sample removes the method: android.support.v4.content.CursorLoader.loadInBackground:
   <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
   -->
+
+
+  <!--// Metadata.xml XPath method reference: path="/api/package[@name='com.rey.material.widget']/class[@name='Slider']/method[@name='getSuggestedMinimumHeight' and count(parameter)=0]"-->
+  <attr path="/api/package[@name='com.rey.material.widget']/class[@name='Slider']/method[@name='getSuggestedMinimumHeight' and count(parameter)=0]" name="visibility">protected</attr>
+  <attr path="/api/package[@name='com.rey.material.widget']/class[@name='Slider']/method[@name='getSuggestedMinimumWidth' and count(parameter)=0]" name="visibility">protected</attr>
+
+  <!--// Metadata.xml XPath method reference: path="/api/package[@name='com.rey.material.widget']/class[@name='Switch']/method[@name='getSuggestedMinimumHeight' and count(parameter)=0]"-->
+  <attr path="/api/package[@name='com.rey.material.widget']/class[@name='Switch']/method[@name='getSuggestedMinimumHeight' and count(parameter)=0]" name="visibility">protected</attr>
+  <attr path="/api/package[@name='com.rey.material.widget']/class[@name='Switch']/method[@name='getSuggestedMinimumWidth' and count(parameter)=0]" name="visibility">protected</attr>
+
 </metadata>
