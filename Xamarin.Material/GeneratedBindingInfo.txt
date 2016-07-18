@@ -1,0 +1,13 @@
+Binding for:
+com.github.rey5137:material:1.2.4
+
+Dependencies:
+
+material-1.2.4.aar,    Path=C:\Users\miche\.gradle\caches\modules-2\files-2.1\com.github.rey5137\material\1.2.4\1c28d94f5908a9e0a7f8e61089cb86d2eb5cba4b\material-1.2.4.aar
+	animated-vector-drawable-23.4.0.aar,    Path=C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\animated-vector-drawable\23.4.0\animated-vector-drawable-23.4.0.aar
+	appcompat-v7-23.4.0.aar,    Path=C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\appcompat-v7\23.4.0\appcompat-v7-23.4.0.aar
+	cardview-v7-23.4.0.aar,    Path=C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\cardview-v7\23.4.0\cardview-v7-23.4.0.aar
+	recyclerview-v7-23.4.0.aar,    Path=C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\recyclerview-v7\23.4.0\recyclerview-v7-23.4.0.aar
+	support-annotations-23.4.0.jar,    Path=C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar
+	support-v4-23.4.0.aar,    Path=C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\23.4.0\support-v4-23.4.0.aar
+	support-vector-drawable-23.4.0.aar,    Path=C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-vector-drawable\23.4.0\support-vector-drawable-23.4.0.aar
